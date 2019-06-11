@@ -10,4 +10,4 @@ delete playlist.artistName;
 console.log(playlist);
 return playlist;
 }
-
+ removeFromPlaylist(playlist, 'Slowdive')
